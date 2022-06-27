@@ -30,17 +30,6 @@
 			<label>   
 				Gender :  
 			</label><br>  
-			<input type="radio" name="male"/> Male <br>  
-			<input type="radio" name="female"/> Female <br>  
-			<input type="radio" name="other"/> Other  
-			<br>  
-			<br>  
-			  
-			<label>   
-				Phone :  
-			</label>  
-			<input type="text" name="country code"  value="+91" size="2"/>   
-			<input type="text" name="phone" size="10"/> <br> <br>  
 			Address  
 			<br>  
 			<textarea cols="80" rows="5" value="address">  
