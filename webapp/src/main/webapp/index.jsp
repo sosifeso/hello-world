@@ -19,15 +19,6 @@
 			<label>   
 				Course :  
 			</label>   
-			<select>  
-				<option value="MBA">MBA</option>  
-				<option value="MCA">MCA</option>  
-				<option value="M.Tech">M.Tech</option>  
-			</select>  
-			  
-			<br>  
-			<br>  
-			<label>   
 				Gender :  
 			</label><br>  
 			Address  
